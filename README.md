@@ -24,44 +24,44 @@ Beautiful 5x5 pixel graphic display
 
 ##### You, a Wimpus hunter
 
-![Hunter](wimpus-hunter.png)
+![Hunter](assets/wimpus-hunter.png)
 
 ##### The Wimpus hunter at the start, full of blood and heart
 
-![hunter's heart](wimpus-heart.png)
+![hunter's heart](assets/wimpus-heart.png)
 
 ##### The hunter walks right
 
-![Hunter walking right](wimpus-right.png)
+![Hunter walking right](assets/wimpus-right.png)
 
 ##### The hunter walks left
 
-![Hunter walking left](wimpus-left.png)
+![Hunter walking left](assets/wimpus-left.png)
 
 ##### A Bat, who must have just picked you up and dropped you somewhere
 
-![Bat](wimpus-bat.png)  
+![Bat](assets/wimpus-bat.png)  
 
 ### Warnings:
 
 
 #### "You feel a breeze" aka Pit nearby
 
-![pit](wimpus-pit.png)
+![pit](assets/wimpus-pit.png)
 
 #### "Bloody floor" aka Wimpus nearby
 
-![blood](wimpus-blood.png)
+![blood](assets/wimpus-blood.png)
 
 ### Death
 
 #### You fell in a pit && you're dead
 
-![fell in a pit](wimpus-fell.png)
+![fell in a pit](assets/wimpus-fell.png)
 
 ##### A dead Hunter, slain by a Wimpus
 
-![dead hunter](wimpus-dead.png)
+![dead hunter](assets/wimpus-dead.png)
 
 Note: there are other graphics as well, but the Wimpus resists documentation. (If you stopped to photograph/draw it, you'd be eaten!)
 
