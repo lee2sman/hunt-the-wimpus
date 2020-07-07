@@ -12,15 +12,15 @@ function printconsole () {
     basic.showString("w")
     basic.showString("" + (wX))
     basic.pause(1000)
-    // basic.showString("p")
-    // basic.showString("" + (pX))
-    // basic.pause(1000)
-    // basic.showString("b1")
-    // basic.showString("" + (b1X))
-    // basic.pause(1000)
-    // basic.showString("b2")
-    // basic.showString("" + (b2X))
-    // basic.pause(1000)
+    basic.showString("p")
+    basic.showString("" + (pX))
+    basic.pause(1000)
+    basic.showString("b1")
+    basic.showString("" + (b1X))
+    basic.pause(1000)
+    basic.showString("b2")
+    basic.showString("" + (b2X))
+    basic.pause(1000)
     basic.showString("h")
     basic.showString("" + (hX))
 }
@@ -112,6 +112,7 @@ function main () {
     checkBat()
     checkPit()
     checkWumpus()
+    printconsole()
 }
 let hunting = false
 let hX = 0
@@ -143,3 +144,5 @@ hX = randint(0, 11)
 while (hX == pX || hX == wX || hX == b1X || hX == b2X) {
     hX = randint(0, 11)
 }
+images.iconImage(IconNames.Heart).scrollImage(1, 200)
+images.iconImage(IconNames.StickFigure).showImage(0)
