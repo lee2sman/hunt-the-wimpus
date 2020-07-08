@@ -8,6 +8,8 @@ Graphics were selected or drawn in the blocks image pixel-drawing editor.
 
 ## Gameplay
 
+*Note: You can play an emulated version of the hardware in the browser [here](http://leetusman.com/everyday/125). (A) Left and (B) Right buttons to move. Click the **shake** button before A or B to load your arrow.*
+
 You are a *Hunter* dropped somewhere in the 1dimensional 12spaces dungeon. The dungeon is a giant circle. In other words, when you get to the end it loops back around to the other side. In addition to you there is a Wimpus, a Pit, and 2 Bats. You have one arrow in which to slay the Wimpus, so use it wisely or else you'll be eaten...
 
 Move right or left with the A or B button. When you're ready to shoot your arrow, shake the Microbit and then press left or right to shoot your arrow. You must be exactly one space away and shooting in the correct direction. Good luck! If you miss, you're dead.
