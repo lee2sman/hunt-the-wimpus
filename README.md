@@ -4,6 +4,8 @@ A very simple 1dimensional Hunt The Wumpus adaptation for the BBC MicroBit. I tr
 
 Graphics were selected or drawn in the blocks image pixel-drawing editor.
 
+![gameplay](assets/gameplay.gif)
+
 ## Gameplay
 
 You are a *Hunter* dropped somewhere in the 1dimensional 12spaces dungeon. The dungeon is a giant circle. In other words, when you get to the end it loops back around to the other side. In addition to you there is a Wimpus, a Pit, and 2 Bats. You have one arrow in which to slay the Wimpus, so use it wisely or else you'll be eaten...
